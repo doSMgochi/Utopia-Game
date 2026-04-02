@@ -1,0 +1,8 @@
+node_modules/
+functions/node_modules/
+.firebase/
+.firebaserc
+firebase-debug.log*
+*.log
+*.cache
+index_backup.html
